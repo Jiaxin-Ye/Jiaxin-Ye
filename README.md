@@ -4,15 +4,10 @@
     <img src="https://komarev.com/ghpvc/?username=Jiaxin-Ye&&style=flat-square" align="center"/>
 </div>  
 
-<p>
-
 * 🧐 My recent work focuses on speech emotion recognition, cross-modal speech generation, and depression recognition.
 
 * ✉️ If you are interested in **affective computing** or **generative model**, please feel free to contact me through [email](mailto:jxye22@m.fudan.edu)!
 
-</p>
-
-<br/>  
 
 ### Github Stats  
 <div align="center">
